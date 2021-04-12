@@ -1,33 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Dogecoin</title>
-    <link>amuniz2021.github.io/categories/r/</link>
-    <description>Recent content in R on Dogecoin</description>
+    <title>R on Bento</title>
+    <link>https://amuniz2021.github.io/categories/r/</link>
+    <description>Recent content in R on Bento</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
-    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-        <atom:link href="amuniz2021.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://amuniz2021.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Trends</title>
-      <link>amuniz2021.github.io/trends/</link>
-      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>amuniz2021.github.io/trends/</guid>
-      <description>&lt;p&gt;Dogecoin has recently become trending, and some of it&amp;rsquo;s biggest jumps occurred in 2021.It&amp;rsquo;s first big spike happened in January 2018. This is when it jumped from $0.002200 to $0.017100. Despite this jump, Dogecoin fell again to about $0.002083 and then plateaued at that price for about 2 years.&lt;/p&gt;
-&lt;p&gt;The year of 2021 is when it spiked dramatically due to events happening in the Stock Market and celebrities endorsing Dogecoin. This is when it&amp;rsquo;s price increased from $0.004648 in December 2020 to a maximum of $0.077372 in February 2021.Since then it has been stable at around $0.055.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>amuniz2021.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://amuniz2021.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>amuniz2021.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://amuniz2021.github.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -64,7 +53,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;amuniz2021.github.io/post/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://amuniz2021.github.io/post/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
